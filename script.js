@@ -1,9 +1,7 @@
 const LinksSocialMedia = {
   github: 'Beatrizrodri',
-  youtube: 'channel/UCFDRn2o3BRcyN9bp5Pt1RZA',
-  facebook: 'profile.php?id=100006794402720',
   instagram: 'beatriz_rodrigueslc',
-  twitter: 'Beatrizrodrilc'
+  linkedin: '/in/beatriz-rcardoso'
 }
 
 function changeSocialMediaLinks() {
