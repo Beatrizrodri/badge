@@ -1,7 +1,5 @@
 # Badge
 
-Project made on a rocketseat NLW.
-
 <img src="./badge-cover.jpg"/>
 
 ## Technologies used
